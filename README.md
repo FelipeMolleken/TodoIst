@@ -7,14 +7,10 @@
   <img alt="LandingPagesUFC" title="LandingPagesUFC" src="./ImagensUFC/site3.gif" height="250" />
 </h1>
 
- Você pode abrir o site no seu navegador clicando [aqui.](https://landing-page-ufc.vercel.app/index.html) (As animações não funcionam)
- 
-
 ### Características
 
 - [x] React components
 - [x] React Hooks
-- [x] Funcional
 - [x] Consumação de API
 - [x] Adicionar tarefas
 - [x] Excluir tarefas
@@ -39,9 +35,5 @@ As ferramentas que utilizei na construção do projeto foram:
 
 ---
 
-### Autor
-
-
-By Felipe Molleken 👋
 
 [LinkedIn](https://www.linkedin.com/in/felipegois/)
