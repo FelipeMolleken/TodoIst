@@ -2,9 +2,8 @@
 
 <p align="center">Gerenciador de tarefas feito com React</p>
 <h1 align="center">
-  <img alt="LandingPagesUFC" title="LandingPagesUFC" src="./ImagensUFC/site1.gif" height="250" />
-  <img alt="LandingPagesUFC" title="LandingPagesUFC" src="./ImagensUFC/site2.gif" height="250" />
-  <img alt="LandingPagesUFC" title="LandingPagesUFC" src="./ImagensUFC/site3.gif" height="250" />
+  <img alt="TodoIst" title="TodoIst" src="./src/todoist1.png" height="250" />
+  <img alt="TodoIst" title="TodoIst2" src="./src/todoist2.png" height="250" />
 </h1>
 
 ### Características
